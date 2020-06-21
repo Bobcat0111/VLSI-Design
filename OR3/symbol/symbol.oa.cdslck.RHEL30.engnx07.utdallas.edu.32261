@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      gxz180002
+HostName                       engnx07.utdallas.edu
+ProcessIdentifier              32261
+ProcessCreationTime_UTC        1587952796
+ProcessCreationTime_Readable   Sun Apr 26 20:59:56 2020 CDT
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/010/g/gx/gxz180002/Desktop/cad/cadence6/4bitALU/OR3/symbol/symbol.oa.cdslck
+TimeEditLocked                 Sun Apr 26 21:43:07 2020 CDT
